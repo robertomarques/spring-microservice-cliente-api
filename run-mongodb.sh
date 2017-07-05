@@ -1,0 +1,1 @@
+docker run --name mongo-container -p 27017:27017 -d mongo
